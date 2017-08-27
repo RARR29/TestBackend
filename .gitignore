@@ -1,4 +1,6 @@
 /Melp/Melp/settings.py
 /Melp/Melp/__pycache__/
+/Melp/restaurants/__pycache__/
+/Melp/restaurants/migrations/
 *.idea
 
