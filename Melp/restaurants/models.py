@@ -4,7 +4,7 @@ from django.db import models
 
 class Restaurant(models.Model):
     id = models.TextField(primary_key=True)
-    rating = models.ImageField()
+    rating = models.URLField()
     name = models.TextField()
     site = models.TextField()
     email = models.TextField()
