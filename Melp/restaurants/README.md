@@ -8,7 +8,7 @@
 + [Update Restaurant](#update-restaurant)
 + [Statistics Restaurant](#statistics-restaurant)
 
-## List Restaurant
+## List Restaurant          
     Retrive all Restaurant objects
 #### - URL:
     GET: url/restaurant/
@@ -64,8 +64,7 @@
 ```
  #### -Status Codes:
       - 200 is successful
-
-
+[Return to Contents](#contents)
 ## Retrive Restaurant
     Retrive one Restaurant object by ID
 #### - URL:
@@ -97,7 +96,7 @@
 #### - Status Codes: 
     - 200 is successful 
     - 404 not found
-
+[Return to Contents](#contents)
 ## Delete Restaurant
     Delete one Restaurant object by ID
 #### - URL:
@@ -117,7 +116,7 @@
 ### Status Codes: 
     - 204 no content 
     - 404 not found
-
+[Return to Contents](#contents)
 ## Create Restaurant
     Create one Restaurant object
 #### - URL:
@@ -175,7 +174,7 @@
 #### - Status Codes: 
     - 200 is successful 
     - 400 bad request
-    
+[Return to Contents](#contents)
 ## Update Restaurant
     Edit one Restaurant object by Id
 #### - URL:
@@ -242,7 +241,7 @@
     - 200 is successful
     - 400 bad request
     - 404 not found
-
+[Return to Contents](#contents)
 ## Statistics Restaurant
     Obtain statistics of restaurants by a geographical circle area
 #### - URL:
@@ -284,4 +283,4 @@
 #### - Status Codes: 
     - 200 is successful
     - 400 bad request
-
+[Return to Contents](#contents)
